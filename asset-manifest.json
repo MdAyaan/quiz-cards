@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/quiz-cards/static/css/main.7595a039.chunk.css",
+    "main.css": "/quiz-cards/static/css/main.37080722.chunk.css",
     "main.js": "/quiz-cards/static/js/main.d58dd6ff.chunk.js",
     "main.js.map": "/quiz-cards/static/js/main.d58dd6ff.chunk.js.map",
     "runtime-main.js": "/quiz-cards/static/js/runtime-main.a1d97997.js",
@@ -8,13 +8,13 @@
     "static/js/2.f81a42db.chunk.js": "/quiz-cards/static/js/2.f81a42db.chunk.js",
     "static/js/2.f81a42db.chunk.js.map": "/quiz-cards/static/js/2.f81a42db.chunk.js.map",
     "index.html": "/quiz-cards/index.html",
-    "static/css/main.7595a039.chunk.css.map": "/quiz-cards/static/css/main.7595a039.chunk.css.map",
+    "static/css/main.37080722.chunk.css.map": "/quiz-cards/static/css/main.37080722.chunk.css.map",
     "static/js/2.f81a42db.chunk.js.LICENSE.txt": "/quiz-cards/static/js/2.f81a42db.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.a1d97997.js",
     "static/js/2.f81a42db.chunk.js",
-    "static/css/main.7595a039.chunk.css",
+    "static/css/main.37080722.chunk.css",
     "static/js/main.d58dd6ff.chunk.js"
   ]
 }
